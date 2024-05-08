@@ -3,8 +3,8 @@
 
 I'm Ece Nur DOĞAN.       
 
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ecenurdogan&repo=ecenurdogan&countColorcountColor&countColor=%237B1E7B"/>
 
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ecenurdogan&repo=ecenurdogan&countColorcountColor&countColor=%237B1E7B"/>
 
 ## Graduation :computer:
 
@@ -23,7 +23,5 @@ You can find and get in touch with me via Instagram!
 * [Animal Shelter Automation Project](https://github.com/ecenurdogan/Animal-Shelter-Automation-System)
 * [Javascript Lecturing And Examples Web Site](https://github.com/ecenurdogan/Javascript-Lecturing-And-Examples-Web-Site)
 
-
-<img src="https://myreadme.vercel.app/api/embed/ecenurdogan?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
