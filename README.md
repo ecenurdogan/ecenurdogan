@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-I'm Ece Nur DOĞAN. Computer Engineer.
-
-![Ece's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ecenurdogan&show_icons=true)
+I'm Ece Nur DOĞAN.
 
 ## Graduation
 
@@ -17,12 +15,15 @@ You can find and get in touch with me via Instagram!
 
 [![Instagram Badge](https://img.shields.io/badge/ecenurdogan-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/ecenur.dogann/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecenurdogan&hide_progress=true)
-
 ## Projects
 
 * [Sentiment Analysis for Product Review Scoring on E-commerce Websites](https://github.com/ecenurdogan/Duygu-Analizi-Yontemiyle-Alisveris-Sitelerindeki-Yorumlarin-Puanlandirilmasi) 
 * [Car Rental Automation Project](https://github.com/ecenurdogan/ReCapProject)
-* [Animal Shelter Automation Project]([https://github.com/ecenurdogan/ReCapProject](https://github.com/ecenurdogan/Animal-Shelter-Automation-System))
-* [Javascript Lecturing And Examples Web Site]([https://github.com/ecenurdogan/ReCapProject](https://github.com/ecenurdogan/Javascript-Lecturing-And-Examples-Web-Site))
+* [Animal Shelter Automation Project]([https://github.com/ecenurdogan/ReCapProject](https://github.com/ecenurdogan/Animal-Shelter-Automation-System)
+* [Javascript Lecturing And Examples Web Site]([https://github.com/ecenurdogan/ReCapProject](https://github.com/ecenurdogan/Javascript-Lecturing-And-Examples-Web-Site)
+
+
+![Ece's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ecenurdogan&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecenurdogan&hide_progress=true)
+
 
