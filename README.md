@@ -4,7 +4,7 @@
 I'm Ece Nur DOĞAN.       
 
 
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ecenurdogan&repo=ecenurdogan&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ecenurdogan.ecenurdogan">
 
 ## Graduation :computer:
 
@@ -22,6 +22,5 @@ You can find and get in touch with me via Instagram!
 * [Car Rental Automation Project](https://github.com/ecenurdogan/ReCapProject)
 * [Animal Shelter Automation Project](https://github.com/ecenurdogan/Animal-Shelter-Automation-System)
 * [Javascript Lecturing And Examples Web Site](https://github.com/ecenurdogan/Javascript-Lecturing-And-Examples-Web-Site)
-
 
 
