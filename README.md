@@ -15,6 +15,7 @@ I graduated with a Computer Engineering Degree from Cumhuriyet University.
 You can find and get in touch with me via Instagram!
 
 [![Instagram Badge](https://img.shields.io/badge/ecenurdogan-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/ecenur.dogann/)
+[![Gmail Badge](https://img.shields.io/badge/send%20email%20-D14836?style=for-the-badge&logo=gmail&logoColor=whiteecenurdogan-follow%20on%20gmail-red?style=for-the-badge&logo=instagram)](mailto:ecenr502@gmail.com)
 
 ## Projects :open_file_folder:
 
