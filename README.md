@@ -24,4 +24,16 @@ You can find and get in touch with me via Instagram!
 * [Animal Shelter Automation Project](https://github.com/ecenurdogan/Animal-Shelter-Automation-System)
 * [Javascript Lecturing And Examples Web Site](https://github.com/ecenurdogan/Javascript-Lecturing-And-Examples-Web-Site)
 
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/ecenurdogan/github-readme-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=ecenurdogan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+    <a href="https://github.com/ecenurdogan/github-readme-stats">
+    <img align="rigt" width=400 height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecenurdogan&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+   </div>
+
+ </p>
+
 
